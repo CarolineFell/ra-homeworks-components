@@ -6,6 +6,8 @@
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
+    "gitignore": "^0.6.0",
+    "prop-types": "^15.7.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1"
@@ -30,5 +32,17 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "[![Build status](https://ci.appveyor.com/api/projects/status/mt9b2pt6f8swq0eo/branch/master?svg=true)](https://ci.appveyor.com/project/CarolineFell/ra-homeworks-components/branch/master)",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CarolineFell/ra-homeworks-components.git"
+  },
+  "keywords": [
+    "components"
+  ],
+  "author": "CarolineFell",
+  "license": "ISC"
 }
