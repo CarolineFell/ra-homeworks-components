@@ -1,7 +1,3 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/mt9b2pt6f8swq0eo/branch/master?svg=true)](https://ci.appveyor.com/project/CarolineFell/ra-homeworks-components/branch/master)
-
---------
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
